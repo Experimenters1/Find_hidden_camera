@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_camera-master.dia",
+    "emit-module-dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_camera-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_camera-master-emit-module.dia",
+    "swift-dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_camera-master.swiftdeps"
+  },
+  "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/find_hidden_camera/find_hidden_camera/BLEScanner.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner.d",
+    "diagnostics" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner.dia",
+    "index-unit-output-path" : "/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner.bc",
+    "object" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/BLEScanner~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/find_hidden_camera/find_hidden_camera/ContentView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/find_hidden_camera/find_hidden_camera/find_hidden_cameraApp.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp.d",
+    "diagnostics" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp.dia",
+    "index-unit-output-path" : "/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp.bc",
+    "object" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/find_hidden_camera/build/find_hidden_camera.build/Debug-iphoneos/find_hidden_camera.build/Objects-normal/arm64/find_hidden_cameraApp~partial.swiftmodule"
+  }
+}

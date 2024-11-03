@@ -1,0 +1,20 @@
+{
+  "source": "/Users/huyvu/Desktop/Find_hidden_camera/test1/test1/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Quét BLE Camera Ẩn"
+      },
+      {
+        "comment": "",
+        "key": "Tên thiết bị: %@"
+      },
+      {
+        "comment": "",
+        "key": "RSSI: %lld"
+      }
+    ]
+  },
+  "version": 1
+}

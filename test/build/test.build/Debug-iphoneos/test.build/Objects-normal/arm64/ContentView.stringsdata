@@ -1,0 +1,32 @@
+{
+  "source": "/Users/huyvu/Desktop/Find_hidden_camera/test/test/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Start Scanning for Hidden Cameras",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Suspicion: %lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "RSSI: %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 31
+        }
+      }
+    ]
+  },
+  "version": 1
+}

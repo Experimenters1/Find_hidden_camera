@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'find_hidden_camera' in project 'find_hidden_camera' (no dependencies)
